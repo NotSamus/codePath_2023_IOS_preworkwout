@@ -24,14 +24,14 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
-**Apple Books**
+### **Apple Books**
 * its quite simple to navigate with the 5 buttons you have at the bottom
 * its clean, compared to other apps for book reading.
-**Microsoft Outlook**
+### **Microsoft Outlook**
   * it can let you connect your other emails like from google, yahoo, etc.
   * you can change the color inside the app.
   * you have a calendar integrated
-**simple notes**
+### **simple notes**
  * you can put tags on notes, so when you are searching it later you can see the notes related.
  * its simple and clean
 ## Notes
