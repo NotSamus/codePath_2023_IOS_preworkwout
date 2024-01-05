@@ -4,7 +4,7 @@
 Submitted by: Jesus Lopez
 
 crispy background is an app that has a button at the middle and 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,21 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
-
+**Apple Books**
+* its quite simple to navigate with the 5 buttons you have at the bottom
+* its clean, compared to other apps for book reading.
+**Microsoft Outlook**
+  * it can let you connect your other emails like from google, yahoo, etc.
+  * you can change the color inside the app.
+  * you have a calendar integrated
+**simple notes**
+ * you can put tags on notes, so when you are searching it later you can see the notes related.
+ * its simple and clean
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+while i was doing the programming side of the app, i wanted to over deliver, the only problem is that i was trying to incoporate ceratain logic from other programming languages but it is obvious that works quite different on swift 
 
 ## License
 
